@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontendmentor](https://your-solution-url.com)
+- Live Site URL: [Live site](https://ahmedsaidi99.github.io/rating-component/)
 
 ## My process
 
@@ -53,9 +53,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/AhmedSaidi99)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AhmedSaidi99)
-- Twitter - [@yourusername](https://www.twitter.com/Ahmed99Saidi)
+- Website - [Ahmed Saidi](https://github.com/AhmedSaidi99)
+- Frontend Mentor - [@AhmedSaidi99](https://www.frontendmentor.io/profile/AhmedSaidi99)
+- Twitter - [@Ahmed99Saidi](https://www.twitter.com/Ahmed99Saidi)
 
 
 
