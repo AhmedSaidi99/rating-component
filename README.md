@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://your-solution-url.com)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/interactive-rating-component-htmlcss-gridjavascriptstatemanagement-HJt2zWaz9)
 - Live Site URL: [Live site](https://ahmedsaidi99.github.io/rating-component/)
 
 ## My process
